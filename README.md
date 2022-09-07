@@ -16,3 +16,5 @@ E-mail:123456
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+![image](https://user-images.githubusercontent.com/103416065/188859068-9121bc6c-01a7-47d2-845f-d90dc1cc0e1e.png)
