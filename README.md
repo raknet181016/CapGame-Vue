@@ -9,6 +9,10 @@ cd CapGame-Vue
 yarn OR npm install  
 yarn dev OR npm run dev  
 
+# Пароль и E-mail для входа на сайт:  
+пароль: 123456  
+E-mail:123456  
+
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
